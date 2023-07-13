@@ -4,6 +4,7 @@ content
 ---
 * Roots of equatios
 * Simultaneous Equation
+* Numerical Integratios
 * Ordinary differential equation
 * Partial differential equation
-* Numerical Integratios
+
