@@ -1,9 +1,42 @@
-# Codes of numerical methonds written in python
+# Numerical Methods Python Toolkit
 
-content
+A **Python toolkit** for solving common numerical problems, including root finding, system of equations, numerical integration, ODEs, systems of ODEs, and PDEs.  
+
+## Features
+
+- **Root Finding**
+  - Bisection Method
+  - Regular-Falsi Method
+  - Newton-Raphson Method
+
+- **Linear Systems**
+  - Gauss Elimination
+  - Gauss-Seidel Method
+
+- **Numerical Integration**
+  - Trapezoidal Rule
+  - Simpson’s 1/3 Rule
+  - Simpson’s 3/8 Rule
+
+- **Ordinary Differential Equations (ODEs)**
+  - Euler Method
+  - Runge-Kutta 2nd Order (RK2)
+  - Runge-Kutta 4th Order (RK4)
+  - Systems of ODEs
+
+- **Partial Differential Equations (PDEs)**
+  - 2D Laplace Equation (Elliptical)
+  - 1D Heat Equation (Parabolic)
+
+- Implemented in **Python**, without any external dependencies.  
+
 ---
-* [Roots of equatios](src/1_roots_of_equatoin/)
-* [Simultaneous Equation](src/2_systems_of_equation/)
-* [Numerical Integratios](src/3_numerical_Integration/)
-* [Ordinary differential equation](src/4_differential_equation/)
-* [Partial differential equation](src/5_partial_de/)
+
+## Installation
+
+No installation required. Just clone the repository:
+
+```bash
+git clone https://github.com/your-username/numerical-methods-python.git
+cd num_methods
+```
