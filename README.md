@@ -34,9 +34,9 @@ A **Python toolkit** for solving common numerical problems, including root findi
 
 ## Installation
 
-No installation required. Just clone the repository:
+Python must be pre installed on your machine. Then clone the repository. Then you can run the examples.
 
 ```bash
-git clone https://github.com/your-username/numerical-methods-python.git
-cd num_methods
+git clone https://github.com/glitterB/numerical-methods.git
+python -m examples.example_root_finding
 ```
